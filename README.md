@@ -2,17 +2,6 @@
 
 Are you looking to hire me? Start here...
 
-## Contact
-
-* Roman Eidenzon
-* Cambridge, Ontario, Canada
-* [647-978-3387](tel:647-978-3387)
-* [romandmitri@gmail.com](mailto:romandmitri@gmail.com)
-* [romandmitri.com](https://romandmitri.com)
-* [linkedin.com/in/romandmitri](https://www.linkedin.com/in/romandmitri)
-* [github.com/romandmitri](https://github.com/romandmitri)
-* [gitlab.com/romandmitri](https://gitlab.com/romandmitri)
-
 ---
 
 ## Repositories
@@ -34,3 +23,16 @@ I have made some older repositories public on my GitLab account for you to look 
 * https://gitlab.com/romandmitri/nerk
 * https://gitlab.com/romandmitri/meme
 * https://gitlab.com/romandmitri/yardie
+
+---
+
+## Contact
+
+* Roman Eidenzon
+* Cambridge, Ontario, Canada
+* [647-978-3387](tel:647-978-3387)
+* [romandmitri@gmail.com](mailto:romandmitri@gmail.com)
+* [romandmitri.com](https://romandmitri.com)
+* [linkedin.com/in/romandmitri](https://www.linkedin.com/in/romandmitri)
+* [github.com/romandmitri](https://github.com/romandmitri)
+* [gitlab.com/romandmitri](https://gitlab.com/romandmitri)
