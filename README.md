@@ -17,8 +17,7 @@ https://github.com/romandmitri/monorepo-docker-gke
 
 ### `widget`
 
-This is a mini project to demonstrate how to create an embedded widget on a website. This is a proof-of-concept prototype while I work on implementing this as
-part of a bigger example.
+This is a mini project to demonstrate how to create an embedded widget on a website. I implementing this prototype as part of a bigger example.
 
 https://github.com/romandmitri/widget
 
@@ -43,3 +42,14 @@ I have made some older repositories public on my GitLab account for you to look 
 * [linkedin.com/in/romandmitri](https://www.linkedin.com/in/romandmitri)
 * [github.com/romandmitri](https://github.com/romandmitri)
 * [gitlab.com/romandmitri](https://gitlab.com/romandmitri)
+
+## Misc.
+
+### YouTube
+
+I also have a few YouTube channels...
+
+* http://youtube.com/@cheese-code
+* http://youtube.com/@cheese-make
+* http://youtube.com/@cheese-moto
+* http://youtube.com/@cheese-wood
