@@ -15,6 +15,13 @@ pipelines, and Kubernetes deployment patterns for multi-service environments.
 
 https://github.com/romandmitri/monorepo-docker-gke
 
+### `widget`
+
+This is a mini project to demonstrate how to create an embedded widget on a website. This is a proof-of-concept prototype while I work on implementing this as
+part of a bigger example.
+
+https://github.com/romandmitri/widget
+
 ### Older stuff...
 
 I have made some older repositories public on my GitLab account for you to look at.
