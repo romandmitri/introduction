@@ -15,11 +15,12 @@ pipelines, and Kubernetes deployment patterns for multi-service environments.
 
 https://github.com/romandmitri/monorepo-docker-gke
 
-### `widget`
+### `emma`
 
-This is a mini project to demonstrate how to create an embedded widget on a website. I implementing this prototype as part of a bigger example.
+A project exploring AI prompting and conversational agents by turning personal stories and career history into tailored resumes and interactive chatbots. It
+combines LLM-driven generation with an embeddable chat widget prototype that can be dropped into any website.
 
-https://github.com/romandmitri/widget
+https://github.com/romandmitri/emma
 
 ### Older stuff...
 
