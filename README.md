@@ -24,12 +24,11 @@ https://github.com/romandmitri/emma
 
 ### Older stuff...
 
-I have made some older repositories public on my GitLab account for you to look at.
+Some older repositories that could be of interest.
 
-* https://gitlab.com/romandmitri
-* https://gitlab.com/romandmitri/nerk
-* https://gitlab.com/romandmitri/meme
-* https://gitlab.com/romandmitri/yardie
+* https://github.com/romandmitri/nerk
+* https://github.com/romandmitri/meme
+* https://github.com/romandmitri/yardie
 
 ---
 
@@ -42,7 +41,6 @@ I have made some older repositories public on my GitLab account for you to look 
 * [romandmitri.com](https://romandmitri.com)
 * [linkedin.com/in/romandmitri](https://www.linkedin.com/in/romandmitri)
 * [github.com/romandmitri](https://github.com/romandmitri)
-* [gitlab.com/romandmitri](https://gitlab.com/romandmitri)
 
 ## Misc.
 
